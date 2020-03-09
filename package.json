@@ -1,0 +1,8 @@
+{
+  "name": "sample-http",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/compute": "^1.2.0",
+    "firebase-admin": "^8.9.2"
+  }
+}
